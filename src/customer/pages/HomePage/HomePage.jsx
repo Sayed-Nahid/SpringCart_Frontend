@@ -1,12 +1,15 @@
 import React from 'react'
 import MainCarosel from '../../components/HomeCarosel/MainCarosel'
+import HomeSectionCarosel from '../../components/HomeSectionCarosel/HomeSectionCarosel'
 
 export const HomePage = () => {
   return (
     <div>
         <MainCarosel/>
+        <p>hola</p>
+        <HomeSectionCarosel/>
         <div>
-            Other Sections.
+            
         </div>
     </div>
   )
