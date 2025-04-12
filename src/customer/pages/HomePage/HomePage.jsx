@@ -6,7 +6,6 @@ export const HomePage = () => {
   return (
     <div>
         <MainCarosel/>
-        <p>hola</p>
         <HomeSectionCarosel/>
         <div>
             
